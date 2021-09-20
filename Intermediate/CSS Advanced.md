@@ -1,0 +1,11 @@
+### Advanced knowledge of:  
+	- CSS fundamentals (colors, fonts, box-model, ...)  
+	- CSS positioning and layout (Flex/Grid/Table/...)  
+	- analyzing and solving browser compatibility challenges  
+	- CSS / CSS3: Flexbox: Flex layout, axis, directions, flexibility, order, alignment  
+	- Overflow and z-index. Flex layout, axis, directions, flexibility, order, alignment  
+	- Grid layout system  
+	- CSS custom properties  
+	- min(), max(), clamp() logical CSS functions for sizing  
+	- CSS properties which affect performance and/or Core Web Vitals  
+	- font loading strategies, aspect-ratio, content-visibility + contain-intrinsic-size

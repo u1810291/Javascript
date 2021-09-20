@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e8a32100797ddffd",
+        "id": "142013b84afd9eab",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Javascript Intermediate.md",
+            "file": "Intermediate/Browser APIs.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript Intermediate.md",
+                "file": "Intermediate/Browser APIs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,12 +85,15 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "e8a32100797ddffd",
+  "active": "142013b84afd9eab",
   "lastOpenFiles": [
-    "Javascript Intermediate.md",
+    "Intermediate/Untitled.md",
+    "Intermediate/CSS Advanced.md",
+    "Untitled.md",
     "JavaScript in Browser.md",
+    "Javascript Intermediate.md",
+    "Untitled/Untitled.md",
     "Another.md",
-    "Some.md",
-    "Untitled.md"
+    "Some.md"
   ]
 }
