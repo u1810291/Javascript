@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Intermediate/Browser APIs.md",
+            "file": "Advanced/Node.js Advanced.md",
             "mode": "source"
           }
         }
@@ -68,13 +68,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intermediate/Browser APIs.md",
+                "file": "Advanced/Node.js Advanced.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -87,13 +87,15 @@
   },
   "active": "142013b84afd9eab",
   "lastOpenFiles": [
-    "Intermediate/Untitled.md",
-    "Intermediate/CSS Advanced.md",
+    "Advanced/Untitled.md",
+    "Intermediate/Node.js Novice.md",
     "Untitled.md",
+    "Intermediate/Untitled.md",
+    "Intermediate/Browser APIs.md",
+    "README.md",
+    "Intermediate/CSS Advanced.md",
     "JavaScript in Browser.md",
     "Javascript Intermediate.md",
-    "Untitled/Untitled.md",
-    "Another.md",
-    "Some.md"
+    "Untitled/Untitled.md"
   ]
 }

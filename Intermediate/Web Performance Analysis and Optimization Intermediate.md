@@ -1,0 +1,10 @@
+-   JavaScript Profiling and Debugging
+-   Network Optimizations
+-   JavaScript Performance Optimization Techniques
+-   JavaScript Obfuscation and Minification
+-   Framework optimization techniques (Angular, React, or others)
+-   Critical Rendering Path
+-   Repaint Reflow Understanding
+-   Core Web Vitals
+-   Understand what is and how to measure following: FCP, LCP, CLS, FID, TTI
+-   Have experience with tools like: Google Lighthouse/PageSpeed Insights
