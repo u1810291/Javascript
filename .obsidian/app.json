@@ -1,7 +1,12 @@
 {
   "spellcheck": true,
-  "strictLineBreaks": true,
+  "strictLineBreaks": false,
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "readableLineLength": false,
+  "foldHeading": true,
+  "trashOption": "local",
+  "newFileLocation": "folder",
+  "newFileFolderPath": ""
 }

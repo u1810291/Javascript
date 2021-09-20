@@ -7,11 +7,8 @@
         "id": "142013b84afd9eab",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Advanced/Node.js Advanced.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Advanced/Node.js Advanced.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,19 +79,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "142013b84afd9eab",
   "lastOpenFiles": [
-    "Advanced/Untitled.md",
-    "Intermediate/Node.js Novice.md",
-    "Untitled.md",
-    "Intermediate/Untitled.md",
-    "Intermediate/Browser APIs.md",
+    "My new post.md",
+    "templates/New Post.md",
     "README.md",
-    "Intermediate/CSS Advanced.md",
-    "JavaScript in Browser.md",
-    "Javascript Intermediate.md",
-    "Untitled/Untitled.md"
+    "Untitled.md",
+    "assets/Untitled.md",
+    "assets/Untitled 1.md",
+    "templates/Untitled.md",
+    "Intermediate/Browser APIs.md",
+    "Intermediate/Web Communication Protocols.md",
+    "Advanced/Untitled.md"
   ]
 }
