@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "142013b84afd9eab",
+        "id": "3246ccd805674666",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Intermediate/Javascript Intermediate.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,12 +68,13 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Intermediate/Javascript Intermediate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -82,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "142013b84afd9eab",
+  "active": "3246ccd805674666",
   "lastOpenFiles": [
-    "My new post.md",
-    "templates/New Post.md",
-    "README.md",
+    "Intermediate/Javascript Intermediate.md",
+    "Intermediate/Data types/Data types.md",
+    "Primitive values.md",
     "Untitled.md",
-    "assets/Untitled.md",
-    "assets/Untitled 1.md",
-    "templates/Untitled.md",
-    "Intermediate/Browser APIs.md",
-    "Intermediate/Web Communication Protocols.md",
-    "Advanced/Untitled.md"
+    "Intermediate/JavaScript in Browser.md",
+    "Advanced/JavaScript in Browser Advanced.md",
+    "Advanced/JavaScript Advanced.md",
+    "templates/New Post.md",
+    "My new post.md",
+    "README.md"
   ]
 }

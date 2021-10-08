@@ -1,3 +1,13 @@
+## [[Data types]]
+-   [Primitive values](obsidian://open?vault=test&file=Intermediate%2FData%20types%2FData%20types)
+    -   [Boolean type](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#boolean_type)
+    -   [Null type](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#null_type)
+    -   [Undefined type](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#undefined_type)
+    -   [Number type](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#number_type)
+    -   [BigInt type](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#bigint_type)
+    -   [String type](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#string_type)
+    -   [Symbol type](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#symbol_type)
+
 ## **Objects Built-in methods**  
 	Know how to use built-in methods  
 	Know static Object methods
