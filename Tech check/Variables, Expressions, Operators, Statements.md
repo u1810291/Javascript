@@ -46,7 +46,7 @@
 > [`--A`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Decrement)<br>Prefix decrement operator.
 ### Unary operators
 > A unary operation is an operation with only one operand.
-> [`delete`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/delete) <br>The `delete` operator deletes a property from an object.
+> <br>[`delete`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/delete) The `delete` operator deletes a property from an object.
 > [`void`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/void) <br>The `void` operator discards an expression's return value.
 > [`typeof`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof)<br>The `typeof` operator determines the type of a given object.
 > [`+`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Unary_plus)<br>The unary plus operator converts its operand to Number type.
