@@ -1,10 +1,10 @@
 # Variables
 ## `Var`
-	Before the advent of ES6, `var` declarations ruled. There are issues associated with variables declared with `var`, though. That is why it was necessary for new ways to declare variables to emerge. First, let's get to understand `var` more before we discuss those issues.
+> Before the advent of ES6, `var` declarations ruled. There are issues associated with variables declared with `var`, though. That is why it was necessary for new ways to declare variables to emerge. First, let's get to understand `var` more before we discuss those issues.
 ## `Let`
-	`let` is now preferred for variable declaration. It's no surprise as it comes as an improvement to `var` declarations. It also solves the problem with `var` that we just covered. Let's consider why this is so.
+> `let` is now preferred for variable declaration. It's no surprise as it comes as an improvement to `var` declarations. It also solves the problem with `var` that we just covered. Let's consider why this is so.
 ## `Const`
-	Variables declared with the `const` maintain constant values. `const` declarations share some similarities with `let` declarations.
+> Variables declared with the `const` maintain constant values. `const` declarations share some similarities with `let` declarations.
 
 ### `Hoisting of const`
 > Just like `let`, `const` declarations are hoisted to the top but are not initialized. 
