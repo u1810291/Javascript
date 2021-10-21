@@ -1,5 +1,5 @@
-## [[Data types]]
--   [Primitive values](obsidian://open?vault=test&file=Intermediate%2FData%20types%2FData%20types)
+## Data types
+-   [Primitive values]
     -   [Boolean type](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#boolean_type)
     -   [Null type](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#null_type)
     -   [Undefined type](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#undefined_type)
@@ -184,3 +184,7 @@
 	Be able to compare generator and iterator  
 	Understand how [yield] works  
 	Understand plain async code
+	
+	
+	
+### Primitive values

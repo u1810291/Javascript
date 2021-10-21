@@ -6,11 +6,24 @@
       {
         "id": "3246ccd805674666",
         "type": "leaf",
+        "dimension": 49.80769230769231,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Intermediate/Javascript Intermediate.md",
+            "file": "Tech check/Variables, Expressions, Operators, Statements.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "d480dbb5c5f36b08",
+        "type": "leaf",
+        "dimension": 50.19230769230769,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Tech check/Variables, Expressions, Operators, Statements.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intermediate/Javascript Intermediate.md",
+                "file": "Tech check/Variables, Expressions, Operators, Statements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +101,15 @@
   },
   "active": "3246ccd805674666",
   "lastOpenFiles": [
+    "Tech check/Variables, Expressions, Operators, Statements.md",
+    "Tech check topics.md",
+    "Untitled.md",
+    "Untitled 1.md",
     "Intermediate/Javascript Intermediate.md",
     "Intermediate/Data types/Data types.md",
     "Primitive values.md",
-    "Untitled.md",
     "Intermediate/JavaScript in Browser.md",
     "Advanced/JavaScript in Browser Advanced.md",
-    "Advanced/JavaScript Advanced.md",
-    "templates/New Post.md",
-    "My new post.md",
-    "README.md"
+    "Advanced/JavaScript Advanced.md"
   ]
 }
