@@ -9,18 +9,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tech check/Objects, Arrays.md",
+            "file": "Functions.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "d6265b72c6302ee8",
+        "id": "2c6a99a000ce1615",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tech check/Objects, Arrays.md",
+            "file": "Functions.md",
             "mode": "preview"
           }
         }
@@ -63,7 +63,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "94fcea58352f9eec",
@@ -79,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech check/Objects, Arrays.md",
+                "file": "Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +98,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d6265b72c6302ee8",
+  "active": "81686087e0fd0cef",
   "lastOpenFiles": [
-    "Tech check/Objects, Arrays.md",
+    "Functions.md",
     "Untitled.md",
     "Tech check/Tech check topics.md",
+    "Tech check/Objects, Arrays.md",
     "Tech check/Variables, Expressions, Operators, Statements.md",
     "Tech check topics.md",
     "Untitled 1.md",
     "Intermediate/Javascript Intermediate.md",
     "Intermediate/Data types/Data types.md",
-    "Primitive values.md",
-    "Intermediate/JavaScript in Browser.md"
+    "Primitive values.md"
   ]
 }
