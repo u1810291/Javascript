@@ -1,6 +1,6 @@
 # Core JavaScript  
 > - Variables, Expressions, Operators, Statements 
-> - Objects, Arrays 
+> - Objects, Arrays, Map, Set, WeakMap, WeakSet
 > - Functions  
 > - Type Conversions  
 > - Functions (scope, closure, patterns)  
